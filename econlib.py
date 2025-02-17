@@ -27,4 +27,12 @@ def expected_value(lottery):
   
   return ev
 
+"""
+propect theory
+"""
+def prospect_eval(lottery, prob, valuation):
+  pass
+
+
+
 
